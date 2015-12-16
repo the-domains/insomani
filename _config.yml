@@ -1,7 +1,7 @@
 name: Insomani
 favicon: null
-layout_spectrum: 0.9060723618604243
-typography_spectrum: 0.6986888267565519
+layout_spectrum: 0.25466
+typography_spectrum: 0.25799
 title: Insomani
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.31802313844673336
-  lightness: 0.16272129002027214
-  saturation: 0.46623977832496166
-  rhythmicContrast: 0.5081790098920465
+    - '#ffffff'
+    - '#1a1a1a'
+    - '#3598dc'
+    - '#545454'
+    - '#8bc1e6'
+  brandStrength: 0.125
+  lightness: 0.0625
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
