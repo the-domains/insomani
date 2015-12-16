@@ -2,6 +2,7 @@ name: Insomani
 favicon: null
 layout_spectrum: 0.9060723618604243
 typography_spectrum: 0.6986888267565519
+title: Insomani
 cta:
   domain: null
   bucket: null
