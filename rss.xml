@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Insomani]]></title>
         <description><![CDATA[Insomani]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/insomani/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 06:08:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Dec 2015 06:12:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/insomani/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c6e7cb4-169f-4664-a357-d973f0014c9b.jpg">]]></description>
+            <link>https://thegrid.ai/insomani/c262f8b6-8297-4eaa-a4ef-db6fff723a81/index.html</link>
+            <guid isPermaLink="false">c262f8b6-8297-4eaa-a4ef-db6fff723a81</guid>
+            <pubDate>Wed, 16 Dec 2015 06:12:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test Post</p>]]></description>
-            <link>undefinedbc6e393d-4f3f-4586-a5cf-aa91f758b237/index.html</link>
+            <link>https://thegrid.ai/insomani/bc6e393d-4f3f-4586-a5cf-aa91f758b237/index.html</link>
             <guid isPermaLink="false">bc6e393d-4f3f-4586-a5cf-aa91f758b237</guid>
             <pubDate>Wed, 16 Dec 2015 06:03:44 GMT</pubDate>
         </item>
